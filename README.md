@@ -1,3 +1,5 @@
+<img width="996" height="252" alt="site-logo-with-background" src="https://github.com/user-attachments/assets/e6616df7-2b19-4c4a-9105-2423fe974584" />
+
 # A Regular Joe — Static Assets
 
 Static assets used across A Regular Joe websites and services.
